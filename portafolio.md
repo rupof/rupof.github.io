@@ -24,14 +24,14 @@ Fiz também, varios gráficos das palavras mais repetidas nos diferentes discurs
 
 Chapa 1:
 
-![comparacao!](/assets/reitores_graficos/ConstruirJuntos.png "ConstruirJuntos.png"){:height="200px" width="300px"}
+![comparacao!](/assets/reitores_graficos/ConstruirJuntos.png "ConstruirJuntos.png"){:height="400px" width="600px"}
 
 Chapa 2:
 
-![comparacao!](/assets/reitores_graficos/JuntospelaUFSCar.png "JuntospelaUFSCar.png"){:height="200px" width="300px"}
+![comparacao!](/assets/reitores_graficos/JuntospelaUFSCar.png "JuntospelaUFSCar.png"){:height="400px" width="600px"}
 
 Chapa 3:
 
-![comparacao!](/assets/reitores_graficos/PorumaUFSCarNotável.png "PorumaUFSCarNotável.png"){:height="200px" width="300px"}
+![comparacao!](/assets/reitores_graficos/PorumaUFSCarNotável.png "PorumaUFSCarNotável.png"){:height="400px" width="600px"}
 
 
