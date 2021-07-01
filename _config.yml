@@ -1,7 +1,7 @@
 remote_theme: christianezeani/panthera-jekyll
 title: Roberto Flórez Ablan
-subtitle: Estudante de Física
-description: Pequeno Portafolio
+subtitle: Estudante de Física da UFSCar. Modelagens físicas, matématicas e dados.
+description: Bolsista de Iniciação Científica na CNPq
 
 left_side:
   background_image: "./assets/images/merida.jpg"
