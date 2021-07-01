@@ -1,4 +1,4 @@
-## Portafolio
+# Portafolio
 
 Neste pequeno portafolio mostro 2 projetos desenvolvidos
 - Análises estatístico/computacional
@@ -8,7 +8,7 @@ da UFSCar.
 
 
 
-### Análises estatístico/computacional do discurso dos candidatos a reitor da UFSCar
+## Análises estatístico/computacional do discurso dos candidatos a reitor da UFSCar
 
 Usando Python obtive as palavras em cada plano de
 gestão dos candidatos a reitor da UFSCar,
@@ -34,4 +34,9 @@ Chapa 3:
 
 ![comparacao!](/assets/reitores_graficos/PorumaUFSCarNotável.png "PorumaUFSCarNotável.png"){:height="400px" width="600px"}
 
+## Simulações de pêndulos acoplados
+
+Realizei a modelagem matemática, procurei a solução numérica e fiz 
+animações interativas para o problema de
+pêndulos acoplados por molas. Neste trabalho usei NumPy, SciPy e matplotlib. A apresentação do trabalho esta disponível em <a href="https://rupof.github.io/assets/slides_pendulos/PresentSemina.slides.html#/" title="Pêndulos acoplados">hobbit-hole</a>
 
