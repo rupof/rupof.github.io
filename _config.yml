@@ -5,6 +5,4 @@ description: Pequeno Portafolio
 
 left_side:
   background_image: "./assets/images/merida.jpg"
-  background_color: "#F00"
-  close_button_color: "#F00"
-  text_color: "#F00"
+  text_color: "#000000"
