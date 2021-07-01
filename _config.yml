@@ -1,7 +1,7 @@
 remote_theme: christianezeani/panthera-jekyll
 title: Roberto Flórez Ablan
-subtitle: Estudante de Física da UFSCar. Modelagens físicas, matématicas e dados.
-description: Bolsista de Iniciação Científica na CNPq
+subtitle: Estudante de Física da UFSCar. 
+description: 
 
 left_side:
   background_image: "./assets/images/merida.jpg"
@@ -20,8 +20,14 @@ social_icons:
     icon: fab fa-github-square
    
 menu:
+  - text: Sobre mim
+    link: https://rupof.github.io/
+    icon: ""
   - text: Portafolio
     link: https://rupof.github.io/portafolio.html
+    icon: ""
+  - text: Pendulos acoplados
+    link: https://rupof.github.io/pendulos_acoplados
     icon: ""
 
  
