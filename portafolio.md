@@ -1,41 +1,37 @@
-## Welcome to GitHub Pages
+## Portafolio
 
-You can use the [editor on GitHub](https://github.com/rupof/rupof.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Neste pequeno portafolio mostro 2 projetos desenvolvidos
+- Análises estatístico/computacional
+do discurso dos candidatos a reitor
+da UFSCar.
+- Simulações de pêndulos acoplados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### Análises estatístico/computacional do discurso dos candidatos a reitor da UFSCar
+
+Usando Python obtive as palavras em cada plano de
+gestão dos candidatos a reitor da UFSCar,
+manipulei estes dados usando Pandas e
+NumPy e fiz uma visualização das descoberta com
+matplotlib.
+
+Abaixo uma comparação de certas palavras chaves relacionadas entre as diferentes chapas.
 
 ![comparacao!](/assets/reitores_graficos/comparacao.png "Comparacao"){:height="400px" width="600px"}
 
+Fiz também, varios gráficos das palavras mais repetidas nos diferentes discursos.
 
-### Markdown
+Chapa 1:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![comparacao!](/assets/reitores_graficos/ConstruirJuntos.png "ConstruirJuntos.png"){:height="200px" width="300px"}
 
-```markdown
-Syntax highlighted code block
+Chapa 2:
 
-# Header 1
-## Header 2
-### Header 3
+![comparacao!](/assets/reitores_graficos/JuntospelaUFSCar.png "JuntospelaUFSCar.png"){:height="200px" width="300px"}
+
+Chapa 3:
+
+![comparacao!](/assets/reitores_graficos/PorumaUFSCarNotável.png "PorumaUFSCarNotável.png"){:height="200px" width="300px"}
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rupof/rupof.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
