@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/rupof/rupof.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![comparacao!](/assets/reitores_graficos/comparacao.png "Comparacao"){:height="36px" width="36px"}
+![comparacao!](/assets/reitores_graficos/comparacao.png "Comparacao"){:height="400px" width="600px"}
 
 
 ### Markdown
