@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![comparacao!](/assets/reitores_graficos/comparacao.png "Comparacao")
+
 - Bulleted
 - List
 
