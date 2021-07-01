@@ -42,11 +42,8 @@ pêndulos acoplados por molas. Neste trabalho usei NumPy, SciPy e matplotlib. A 
 
 Algumas animações:
 
-<video>
-    <source src="https://drive.google.com/file/d/1zA3Fn3wctoizMmyYVI0ZT6hvCiAUvd5m/view" type='video/mp4'>
-</video>
 
 
-<video>
-    <source src="https://drive.google.com/file/d/1XuPHBAbrGt9rh2XNwbNbvQRQPR2LjOjQ/view" type='video/mp4'>
-</video>
+https://user-images.githubusercontent.com/69482330/124182852-cda02300-da8d-11eb-9840-03fe0916301c.mp4
+
+
