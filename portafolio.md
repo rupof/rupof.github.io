@@ -38,5 +38,11 @@ Chapa 3:
 
 Realizei a modelagem matemática, procurei a solução numérica e fiz 
 animações interativas para o problema de
-pêndulos acoplados por molas. Neste trabalho usei NumPy, SciPy e matplotlib. A apresentação do trabalho esta disponível em <a href="https://rupof.github.io/assets/slides_pendulos/PresentSemina.slides.html#/" title="Pêndulos acoplados">hobbit-hole</a>
+pêndulos acoplados por molas. Neste trabalho usei NumPy, SciPy e matplotlib. A apresentação do trabalho esta disponível em <a href="https://rupof.github.io/assets/slides_pendulos/PresentSemina.slides.html#/" title="Pêndulos acoplados">Pêndulos acoplados</a>. 
+
+Algumas animações:
+
+ <iframe width="420" height="315"
+src="https://github.com/rupof/rupof.github.io/blob/main/assets/slides_pendulos/m2mudando.mp4">
+</iframe> 
 
