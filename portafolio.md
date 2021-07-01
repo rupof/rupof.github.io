@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/rupof/rupof.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![comparacao!](/assets/reitores_graficos/comparacao.png "Comparacao")
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,7 +18,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![comparacao!](/assets/reitores_graficos/comparacao.png "Comparacao")
 
 - Bulleted
 - List
