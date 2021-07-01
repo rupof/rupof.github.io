@@ -6,3 +6,23 @@ description: Pequeno Portafolio
 left_side:
   background_image: "./assets/images/merida.jpg"
   text_color: "#000000"
+
+social_icons:
+  - name: lattes
+    link: 
+    
+  - name: linkedin
+    link: https://www.linkedin.com/in/roberto-flórez-ablan-a03021215
+    icon: fab fa-linkedin
+
+  - name: github
+    link: https://github.com/rupof
+    icon: fab fa-github-square
+   
+menu:
+  - text: Portafolio
+    link: https://rupof.github.io/portafolio.html
+    icon: ""
+
+ 
+   
