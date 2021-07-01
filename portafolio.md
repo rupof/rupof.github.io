@@ -1,4 +1,3 @@
-![output](https://user-images.githubusercontent.com/69482330/124184250-ac403680-da8f-11eb-9e19-8edfb67c8a0d.gif)
 # Portafolio
 
 Neste pequeno portafolio mostro 2 projetos desenvolvidos
@@ -45,6 +44,6 @@ Algumas animações:
 
 
 
-![output](https://user-images.githubusercontent.com/69482330/124184344-d265d680-da8f-11eb-9642-aca61c6d436e.gif)
+![output](https://user-images.githubusercontent.com/69482330/124184344-d265d680-da8f-11eb-9642-aca61c6d436e.gif){:height="400px" width="600px"}
 
 
