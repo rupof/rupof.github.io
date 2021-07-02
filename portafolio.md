@@ -1,6 +1,6 @@
-# Portafolio
+# Portfólio
 
-Neste pequeno portafolio mostro 2 projetos desenvolvidos
+Neste pequeno portfólio mostro 2 projetos desenvolvidos
 - Análises estatístico/computacional
 do discurso dos candidatos a reitor
 da UFSCar.
